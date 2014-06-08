@@ -1,7 +1,7 @@
 OSM
 ===
 
-Open Street Map support utilities
+Open Street Map support utilities for Java which allow parsing of XML response.
 
 License
 =======
